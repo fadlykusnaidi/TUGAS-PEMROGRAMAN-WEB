@@ -1,0 +1,14 @@
+body {
+    min-height: 2000px;
+  }
+  .jumbotron {
+    padding: 5rem 1rem;
+    background-image: url(download\ \(1\).jpg) ;
+  }
+  section {
+      padding-top: 5rem;
+  }
+.homebody{
+    background-image:  ;
+    background-size: cover;
+}
